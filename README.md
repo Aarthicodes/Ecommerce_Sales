@@ -10,12 +10,12 @@ Dimension Tables
 	Customer_Dim: Customer ID, Loyalty Level, Region
 	Product_Dim: Product Name, Category, Sub_Category
 # Data Cleaning and Preparation:
-	Removed blank and duplicate rows
-	Corrected inconsistent text and date formats
-	Converted Sales amount into currency format and Quantity were numeric
-	Standardized column names
-	Handled missing values using appropriate formulas
-	Used Trim and clean function to clean the data and used proper data to standardized the text
+Removed blank and duplicate rows
+Corrected inconsistent text and date formats
+Converted Sales amount into currency format and Quantity were numeric
+Standardized column names
+Handled missing values using appropriate formulas
+Used Trim and clean function to clean the data and used proper data to standardized the text
 Store_Dim: Store Type, State.
 # Pivot Table Analysis:
 Sales by product category:
