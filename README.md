@@ -1,6 +1,6 @@
 # Ecommerce_Sales
 # Project Objective: 
-	The objective of the analysis is to understand sales performance, Customer behavior, Product trends and regional contribution to revenue. The study uses data modeling, pivot tables, charts, slicers and key performance indicators (KPI) to derive meaningful insights.
+The objective of the analysis is to understand sales performance, Customer behavior, Product trends and regional contribution to revenue. The study uses data modeling, pivot tables, charts, slicers and key performance indicators (KPI) to derive meaningful insights.
 
 # Dataset Description: 
 The dataset follows a star schema model, consisting of one fact table and multiple dimension tables.
